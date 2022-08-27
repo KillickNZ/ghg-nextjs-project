@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import Typeform from '../components/typeform'
+import Typeform from '../components/Typeform'
 
 const Home: NextPage = () => {
   return (
