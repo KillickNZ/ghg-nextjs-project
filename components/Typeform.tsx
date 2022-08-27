@@ -5,6 +5,6 @@ type Props = {}
 
 export default function typeform({}: Props) {
   return (
-   <Widget id="eEZaIxfr" style={{ width: '50%' }} className="my-form" />
+   <Widget id="eEZaIxfr" style={{ width: '100%', height: '100%' }} className="my-form" />
   )
 }
